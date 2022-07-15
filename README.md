@@ -1,5 +1,5 @@
 <div align="center">
 ｈｅｌｌｏ
 
-![](fishs.gif)
+<img src="fishs.gif" alt="fishes, swimming" width="80%" height="auto"/>
 </div>
