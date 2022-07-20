@@ -1,3 +1,9 @@
+<style>
+  img {
+    border: 20px double #333;
+  } 
+</style>
+
 <div align="center">
   <h3>hello</h3>
 
