@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="fishs.gif" alt="fishes, swimming" width="100%" height="auto"/><br>
+<img src="fishs.gif" alt="fishes, swimming" width="20%" height="auto"/><br>
 
 <!--   https://user-images.githubusercontent.com/106050281/181859845-f7a90d61-3322-45ee-a82b-fafec1c35926.mp4 -->
 
