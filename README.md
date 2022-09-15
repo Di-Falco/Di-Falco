@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="fishs.gif" alt="fishes, swimming" width="40%" height="auto"/><br>
+<img src="fishs.gif" alt="fishes, swimming" width="40%" height="auto"/>
 
 <!--   https://user-images.githubusercontent.com/106050281/181859845-f7a90d61-3322-45ee-a82b-fafec1c35926.mp4 -->
 
 </div>
-
+<br>
 <div align="center">
 
-<img align="left" img width= 35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Falco&&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=111111&langs_count=3" /><br>
+<img align="left" img width= 35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Falco&&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=111111&langs_count=3" />
 
 </div>
- 
+<br>
 <div align="center">
 
 <img src="https://img.shields.io/badge/javascript-771616.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
