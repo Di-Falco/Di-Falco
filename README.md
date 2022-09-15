@@ -4,7 +4,8 @@
 
 <!--   https://user-images.githubusercontent.com/106050281/181859845-f7a90d61-3322-45ee-a82b-fafec1c35926.mp4 -->
 
-<div align="left">
+</div>
+<div align="left" style="margin:auto">
   
 <img src="https://img.shields.io/badge/javascript-551111.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-551111.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -27,5 +28,4 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-444444.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-444444.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
-</div>
 </div>
