@@ -12,7 +12,6 @@
 <br>
 <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/VIM-000000.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 <br>
