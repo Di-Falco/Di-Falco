@@ -7,9 +7,9 @@
 </div>
 <div align="center">
   
-<img src="https://img.shields.io/badge/javascript-551111.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23-551111.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-551111.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-771616.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-771616.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-771616.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/node.js-444444?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-444444.svg?style=for-the-badge&logo=react&logoColor=white"/>
