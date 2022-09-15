@@ -8,8 +8,12 @@
 
 <div align="center">
 
- <img align="left" img width= 35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Falco&&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=771616&langs_count=3" />
-  
+ <img align="left" img width= 35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Falco&&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=444444&langs_count=3" />
+
+</div>
+ 
+<div align="center">
+
 <img src="https://img.shields.io/badge/javascript-771616.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-771616.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-771616.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
