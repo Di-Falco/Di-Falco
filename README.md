@@ -5,7 +5,7 @@
 <!--   https://user-images.githubusercontent.com/106050281/181859845-f7a90d61-3322-45ee-a82b-fafec1c35926.mp4 -->
 
 </div>
-<div align="left" style="margin:auto">
+<div align="center">
   
 <img src="https://img.shields.io/badge/javascript-551111.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-551111.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
